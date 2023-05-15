@@ -1,0 +1,102 @@
+.redes a{
+    text-decoration: none;
+    color: #c464fc;
+}
+.redes img{
+    height: 13px;
+}
+.foto img{
+    width: 10%;
+    border-radius: 100%;
+    margin-left: 44%;
+    margin-top: 50px;
+    box-shadow: 0px 0px 30px rgba(255, 255, 255, 0.521);
+}
+body{
+    text-transform: uppercase;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.nome{
+    margin-left: 46%;
+    margin-top: 10px;
+    font-size: 25px;
+}
+.quem-sou-eu{
+    margin-top: 100px;
+    margin-left:20px;
+    font-size: 25px;
+}
+.sobre-mim{
+    margin-left:40px ;
+    font-size: 20px;
+    margin-right:59%;
+}
+.oq-gosto{
+    margin-left: 65%;
+    margin-top: 100px;
+    font-size: 25px;
+}
+.oq-eu-gosto{
+    margin-left: 67%;
+    margin-top: 10px;
+    margin-right: 200px;
+}
+.meu-desenho{
+    margin-left:37% ;
+    margin-top: 100px;
+    font-size:30px;
+}
+.desenho-1 img{
+    height: 350px;
+    margin-left:6px;
+}
+.para-mais{
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: 35%;
+}
+.instagram a{
+    text-decoration: none;
+    color:#c464fc ;
+    font-size: 20px;
+    margin-left: 45%;
+    margin-top: 10px;
+}
+.instagram img{
+    height: 25px;
+}
+.top{
+    font-size: 25px;
+    margin-left: 40%;
+    margin-top: 100px;
+}
+.jogo1{
+    font-size: 20px;
+    margin-left: 40%;
+    margin-top: 30px;
+    display: flex;
+}
+.jogo1 img{
+    width: 15%;
+    border-radius: 37%;
+    margin-top:px;
+}
+.jogo2{
+    font-size: 20px;
+    margin-left: 40%;
+    display: flex;
+}
+.jogo2 img{
+    width: 10%;
+    border-radius: 40%;
+}
+.jogo3{
+    font-size: 20px;
+    margin-left: 40%;
+    display: flex;
+}
+.jogo3 img{
+    width: 20%;
+    border-radius: 40%;
+}
